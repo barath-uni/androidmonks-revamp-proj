@@ -1,0 +1,83 @@
+---
+title: '#  Uncategorized'
+description: 'Android Buttons Implementation and Advanced Tips and Tricks Uncategorized - Buttons in Android - OverView and Implementation Android Monks'
+date: '2018-08-09'
+modified_date: '2018-08-10'
+image: '/assets/images/posts'
+---
+#  Uncategorized
+
+## [FloatLayout in Python Kivy App](https://androidmonks.com/floatlayout-in-python-kivy-app/)
+
+ [August 3, 2020](https://androidmonks.com/floatlayout-in-python-kivy-app/ "4:55 pm") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")FloatLayout in Python Kivy App In Python Kivy, Creating FloatLayout is very easy. FloatLayout allows any element inside it to “FLOAT”! Meaning the Elements can be placed in any given location with just the use of ‘Coordinate’ System. You can also control the Elements Present inside the FloatLayout with respect to the ‘size\_hint’ and ‘pos\_hint’. … [Read more FloatLayout in Python Kivy App](https://androidmonks.com/floatlayout-in-python-kivy-app/ "FloatLayout in Python Kivy App")
+
+[Tweet](https://twitter.com/intent/tweet?text=FloatLayout+in+Python+Kivy+App&url=https%3A%2F%2Fandroidmonks.com%2Ffloatlayout-in-python-kivy-app%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Ffloatlayout-in-python-kivy-app%2F)0 Shares Categories [Uncategorized](https://androidmonks.com/category/uncategorized/) [Leave a comment](https://androidmonks.com/floatlayout-in-python-kivy-app/#respond)## [WebDriver Automation With Dart – Automating LinkedIn Post](https://androidmonks.com/dart-webdriver-automation-linkedin/)
+
+ [March 15, 2020](https://androidmonks.com/dart-webdriver-automation-linkedin/ "2:53 pm") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")WebDriver Automation With Dart – Automating LinkedIn Post This article is a fun project that happened to lead me to create a very nice automation script using Dart. The WebDriver is an open-source package that is available for Dart. This article lists all the required steps to automate the LinkedIn ‘Post’ flow. Motivation for LinkedIn … [Read more WebDriver Automation With Dart – Automating LinkedIn Post](https://androidmonks.com/dart-webdriver-automation-linkedin/ "WebDriver Automation With Dart – Automating LinkedIn Post")
+
+[Tweet](https://twitter.com/intent/tweet?text=WebDriver+Automation+With+Dart+-+Automating+LinkedIn+Post&url=https%3A%2F%2Fandroidmonks.com%2Fdart-webdriver-automation-linkedin%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fdart-webdriver-automation-linkedin%2F)0 Shares Categories [Uncategorized](https://androidmonks.com/category/uncategorized/) [Leave a comment](https://androidmonks.com/dart-webdriver-automation-linkedin/#respond)## [DataTable in Flutter | Creating Effective Tables](https://androidmonks.com/datatable-flutter/)
+
+ [November 2, 2019June 15, 2019](https://androidmonks.com/datatable-flutter/ "5:30 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")DataTable in Flutter | Creating Effective Tables DataTable is a Widget in Flutter which is primarily focused at creating simple yet effective ways to create tables in Flutter. The important part of creating Tables in Flutter is that there is not a simple way that the flutter engine recreates them when the data changes. To … [Read more DataTable in Flutter | Creating Effective Tables](https://androidmonks.com/datatable-flutter/ "DataTable in Flutter | Creating Effective Tables")
+
+[Tweet](https://twitter.com/intent/tweet?text=DataTable+in+Flutter++Creating+Effective+Tables&url=https%3A%2F%2Fandroidmonks.com%2Fdatatable-flutter%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fdatatable-flutter%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/), [Uncategorized](https://androidmonks.com/category/uncategorized/) [Leave a comment](https://androidmonks.com/datatable-flutter/#respond)## [Creating Image Effects with BackdropFilter in Flutter](https://androidmonks.com/backdropfilter-flutter/)
+
+ [November 2, 2019May 12, 2019](https://androidmonks.com/backdropfilter-flutter/ "3:30 pm") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")Creating Image Effects with BackdropFilter In this article, we will look at some good Image Effects that is possible on Flutter using BackdropFilter. The Widget as such is really straightforward, provides a Child attribute and a Filter attribute. Playing with this Filter attribute creates really good effects native to Flutter and doesn’t require importing Edited … [Read more Creating Image Effects with BackdropFilter in Flutter](https://androidmonks.com/backdropfilter-flutter/ "Creating Image Effects with BackdropFilter in Flutter")
+
+[Tweet](https://twitter.com/intent/tweet?text=Creating+Image+Effects+with+BackdropFilter+in+Flutter&url=https%3A%2F%2Fandroidmonks.com%2Fbackdropfilter-flutter%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fbackdropfilter-flutter%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/), [Uncategorized](https://androidmonks.com/category/uncategorized/) [Leave a comment](https://androidmonks.com/backdropfilter-flutter/#respond)## [FittedBox Widget in Flutter with Example | Androidmonks](https://androidmonks.com/fittedbox-widget/)
+
+ [June 20, 2019May 2, 2019](https://androidmonks.com/fittedbox-widget/ "5:05 pm") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")FittedBox Widget in Flutter with Example FittedBox Widget is a simple Widget to help in creating a quick and neater way to contain a child inside a parent. The main purpose of using the FittedBox is to make the App UI look neater for dynamic children with varying length. In this tutorial, we will look … [Read more FittedBox Widget in Flutter with Example | Androidmonks](https://androidmonks.com/fittedbox-widget/ "FittedBox Widget in Flutter with Example | Androidmonks")
+
+[Tweet](https://twitter.com/intent/tweet?text=FittedBox+Widget+in+Flutter+with+Example++Androidmonks&url=https%3A%2F%2Fandroidmonks.com%2Ffittedbox-widget%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Ffittedbox-widget%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/), [Uncategorized](https://androidmonks.com/category/uncategorized/) [Leave a comment](https://androidmonks.com/fittedbox-widget/#respond)## [PageView Widget in Flutter – Complete Tutorial](https://androidmonks.com/pageview-flutter/)
+
+ [November 2, 2019April 18, 2019](https://androidmonks.com/pageview-flutter/ "3:30 pm") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")PageView Widget in Flutter – Everything you need to know PageView Widget in Flutter is actually a scrollable list but rather works as a page. If you know about carousels(More like image sscrolling on a screen), the PageView gives the same control over that. You can create Pages and define what direction they need to … [Read more PageView Widget in Flutter – Complete Tutorial](https://androidmonks.com/pageview-flutter/ "PageView Widget in Flutter – Complete Tutorial")
+
+[Tweet](https://twitter.com/intent/tweet?text=PageView+Widget+in+Flutter+-+Complete+Tutorial&url=https%3A%2F%2Fandroidmonks.com%2Fpageview-flutter%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fpageview-flutter%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/), [Uncategorized](https://androidmonks.com/category/uncategorized/) [1 Comment](https://androidmonks.com/pageview-flutter/#comments)## [Getting Data from Internet in Flutter | Androidmonks](https://androidmonks.com/data-from-internet-flutter/)
+
+ [June 20, 2019April 7, 2019](https://androidmonks.com/data-from-internet-flutter/ "3:30 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")Getting Data from the Internet in Flutter – Http Package In this tutorial, we will look at how to make use of HTTP Package in Flutter to get Data from the internet. There cannot be any real-time application without the use of Http and internet to communicate back and forth. Even though, the use of … [Read more Getting Data from Internet in Flutter | Androidmonks](https://androidmonks.com/data-from-internet-flutter/ "Getting Data from Internet in Flutter | Androidmonks")
+
+[Tweet](https://twitter.com/intent/tweet?text=Getting+Data+from+Internet+in+Flutter++Androidmonks&url=https%3A%2F%2Fandroidmonks.com%2Fdata-from-internet-flutter%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fdata-from-internet-flutter%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/), [Uncategorized](https://androidmonks.com/category/uncategorized/) [Leave a comment](https://androidmonks.com/data-from-internet-flutter/#respond)## [ListTile Widget in Flutter | Androidmonks](https://androidmonks.com/listtile-widget-flutter/)
+
+ [November 2, 2019March 18, 2019](https://androidmonks.com/listtile-widget-flutter/ "9:30 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")  [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](https://androidmonks.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-18-at-4.18.17-PM.png)](https://androidmonks.com/listtile-widget-flutter/) ListTile in Flutter with Example in Android Studio ListTile in Flutter is similar to the concept of Cards in Android. These widgets are much more flexible and often used along with a List in Flutter. You can create a ListWidget and make use of ListTile as its children. According to the Flutter doc, “A single … [Read more ListTile Widget in Flutter | Androidmonks](https://androidmonks.com/listtile-widget-flutter/ "ListTile Widget in Flutter | Androidmonks")
+
+[Tweet](https://twitter.com/intent/tweet?text=ListTile+Widget+in+Flutter++Androidmonks&url=https%3A%2F%2Fandroidmonks.com%2Flisttile-widget-flutter%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Flisttile-widget-flutter%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/), [Uncategorized](https://androidmonks.com/category/uncategorized/) [Leave a comment](https://androidmonks.com/listtile-widget-flutter/#respond)## [Android RecyclerView Swipe To Delete & Undo](https://androidmonks.com/recyclerview-swipe-delete-undo/)
+
+ [December 22, 2018December 22, 2018](https://androidmonks.com/recyclerview-swipe-delete-undo/ "8:59 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")  [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](https://androidmonks.com/wp-content/uploads/2018/12/Screen-Shot-2018-12-22-at-4.24.59-PM.png)](https://androidmonks.com/recyclerview-swipe-delete-undo/) Android RecyclerView Swipe To Delete & Undo – ItemTouchHelper Class Using RecyclerView to perform swipe to Delete & Undo is uses the ItemTouchHelper utility class. If you have read the article on using ItemTouchHelper to create a Drag and Drop feature using RecyclerView, this post will be easy to follow. The majority of the heavy … [Read more Android RecyclerView Swipe To Delete & Undo](https://androidmonks.com/recyclerview-swipe-delete-undo/ "Android RecyclerView Swipe To Delete & Undo")
+
+[Tweet](https://twitter.com/intent/tweet?text=Android+RecyclerView+Swipe+To+Delete+%26+Undo&url=https%3A%2F%2Fandroidmonks.com%2Frecyclerview-swipe-delete-undo%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Frecyclerview-swipe-delete-undo%2F)0 Shares Categories [Uncategorized](https://androidmonks.com/category/uncategorized/) [1 Comment](https://androidmonks.com/recyclerview-swipe-delete-undo/#comments)## [Android SearchView Tutorial in Android Studio](https://androidmonks.com/searchview/)
+
+ [November 2, 2019December 17, 2018](https://androidmonks.com/searchview/ "6:33 pm") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")Android SearchView Tutorial in Android Studio SearchView in Android is a very sought after View. You cannot find any website nowadays, without a search bar. The same applies to an application also. There are a lot of ways to auto-populate a search query on entering a key phrase into the SearchView. In this tutorial, we … [Read more Android SearchView Tutorial in Android Studio](https://androidmonks.com/searchview/ "Android SearchView Tutorial in Android Studio")
+
+[Tweet](https://twitter.com/intent/tweet?text=Android+SearchView+Tutorial+in+Android+Studio&url=https%3A%2F%2Fandroidmonks.com%2Fsearchview%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fsearchview%2F)0 Shares Categories [Uncategorized](https://androidmonks.com/category/uncategorized/) [Leave a comment](https://androidmonks.com/searchview/#respond) Post navigation [Older posts](https://androidmonks.com/category/uncategorized/page/2/)1 [2](https://androidmonks.com/category/uncategorized/page/2/) … [5](https://androidmonks.com/category/uncategorized/page/5/) [Next →](https://androidmonks.com/category/uncategorized/page/2/)  Search for:   ## Archives
+
+* [August 2020](https://androidmonks.com/2020/08/)
+* [March 2020](https://androidmonks.com/2020/03/)
+* [January 2020](https://androidmonks.com/2020/01/)
+* [December 2019](https://androidmonks.com/2019/12/)
+* [November 2019](https://androidmonks.com/2019/11/)
+* [October 2019](https://androidmonks.com/2019/10/)
+* [September 2019](https://androidmonks.com/2019/09/)
+* [August 2019](https://androidmonks.com/2019/08/)
+* [July 2019](https://androidmonks.com/2019/07/)
+* [June 2019](https://androidmonks.com/2019/06/)
+* [May 2019](https://androidmonks.com/2019/05/)
+* [April 2019](https://androidmonks.com/2019/04/)
+* [March 2019](https://androidmonks.com/2019/03/)
+* [February 2019](https://androidmonks.com/2019/02/)
+* [January 2019](https://androidmonks.com/2019/01/)
+* [December 2018](https://androidmonks.com/2018/12/)
+* [November 2018](https://androidmonks.com/2018/11/)
+* [October 2018](https://androidmonks.com/2018/10/)
+* [September 2018](https://androidmonks.com/2018/09/)
+* [August 2018](https://androidmonks.com/2018/08/)
+* [July 2018](https://androidmonks.com/2018/07/)
+ © 2021 Android Monks • Powered by [GeneratePress](https://generatepress.com) This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Cookie settingsACCEPTPrivacy & Cookies Policy   Close #### Privacy Overview
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.  Necessary  Necessary Always EnabledNecessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+
+ Non-necessary  Non-necessaryAny cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+  /* <![CDATA[ */
+var tocplus = {"visibility\_show":"show","visibility\_hide":"hide","width":"Auto"};
+/* ]]> */  /* <![CDATA[ */
+var socialWarfare = {"addons":[],"post\_id":"2359","variables":{"emphasizeIcons":false,"powered\_by\_toggle":false,"affiliate\_link":"https:\/\/warfareplugins.com"},"floatBeforeContent":""};
+/* ]]> */       var swp\_nonce = "c005e5bc76";var swpFloatBeforeContent = false; var swp\_ajax\_url = "https://androidmonks.com/wp-admin/admin-ajax.php";var swpClickTracking = false; 

@@ -1,0 +1,83 @@
+---
+title: '#  Flutter'
+description: 'Android Buttons Implementation and Advanced Tips and Tricks Uncategorized - Buttons in Android - OverView and Implementation Android Monks'
+date: '2018-08-09'
+modified_date: '2018-08-10'
+image: '/assets/images/posts'
+---
+#  Flutter
+
+## [Flutter and Rive – Creating Animated Buttons](https://androidmonks.com/flutter-rive-animated-buttons/)
+
+ [January 4, 2020](https://androidmonks.com/flutter-rive-animated-buttons/ "4:44 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")  [![Button Animation Using Rive and Flutter](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![Button Animation Using Rive and Flutter](https://androidmonks.com/wp-content/uploads/2020/01/buttonriveanim.gif)](https://androidmonks.com/flutter-rive-animated-buttons/) Flutter and Rive – Creating Animated Buttons In this article, we will look at how to create a super cool Animated Button using the Rive App and flare\_flutter plugin. Creating animation is now really easy with the help of the Rive Cloud App, that lets you generate flr files which can then be used to run … [Read more Flutter and Rive – Creating Animated Buttons](https://androidmonks.com/flutter-rive-animated-buttons/ "Flutter and Rive – Creating Animated Buttons")
+
+[Tweet](https://twitter.com/intent/tweet?text=Flutter+and+Rive+-+Creating+Animated+Buttons&url=https%3A%2F%2Fandroidmonks.com%2Fflutter-rive-animated-buttons%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fflutter-rive-animated-buttons%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [2 Comments](https://androidmonks.com/flutter-rive-animated-buttons/#comments)## [Flutter Navigation Drawer in 5 Minutes](https://androidmonks.com/flutter-navigation-drawer/)
+
+ [December 6, 2019December 7, 2019](https://androidmonks.com/flutter-navigation-drawer/ "12:00 pm") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")Flutter Navigation Drawer in 5 Minutes Navigation Drawer or the Menu SlideBar is a very useful UX/UI component to any application. To create a Navigation Drawer in the native Android/Kotlin would take a lot of boilerplate code to be written. In Flutter, all it is going to take is 5 minutes of your time! Navigation … [Read more Flutter Navigation Drawer in 5 Minutes](https://androidmonks.com/flutter-navigation-drawer/ "Flutter Navigation Drawer in 5 Minutes")
+
+[Tweet](https://twitter.com/intent/tweet?text=Flutter+Navigation+Drawer+in+5+Minutes&url=https%3A%2F%2Fandroidmonks.com%2Fflutter-navigation-drawer%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fflutter-navigation-drawer%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/flutter-navigation-drawer/#respond)## [Flutter Basics in 1 Hour | Create your First App [Free]](https://androidmonks.com/flutter-basics-1-hour/)
+
+ [December 3, 2019November 25, 2019](https://androidmonks.com/flutter-basics-1-hour/ "12:00 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")  [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](https://androidmonks.com/wp-content/uploads/2019/11/Flutter-in-1-Hour.png)](https://androidmonks.com/flutter-basics-1-hour/) Flutter Basics in 1 Hour | Create your First App [Free] Flutter was huge news for Mobile developers in 2018. Started as a simple cross-platform development programming language(IOS & Android will run with one code), it soon started tingling the minds of the community. Took a turn and appeased the Web developers with the launch … [Read more Flutter Basics in 1 Hour | Create your First App [Free]](https://androidmonks.com/flutter-basics-1-hour/ "Flutter Basics in 1 Hour | Create your First App [Free]")
+
+[Tweet](https://twitter.com/intent/tweet?text=Flutter+Basics+in+1+Hour++Create+your+First+App+%5BFree%5D&url=https%3A%2F%2Fandroidmonks.com%2Fflutter-basics-1-hour%2F)Pin[Share2](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fflutter-basics-1-hour%2F)2 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/flutter-basics-1-hour/#respond)## [RichText Widget in Flutter | Span Text Easily](https://androidmonks.com/richtext-flutter/)
+
+ [November 24, 2019November 24, 2019](https://androidmonks.com/richtext-flutter/ "3:00 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")RichText Widget in Flutter | Span Text Easily RichText Widget is very useful in Flutter. It lets the developer create a simple yet effective way of creating texts on the UI with multiple Styles to it. A very similar practice in Website and Mobile apps is to either Style a specific word in a paragraph … [Read more RichText Widget in Flutter | Span Text Easily](https://androidmonks.com/richtext-flutter/ "RichText Widget in Flutter | Span Text Easily")
+
+[Tweet](https://twitter.com/intent/tweet?text=RichText+Widget+in+Flutter++Span+Text+Easily&url=https%3A%2F%2Fandroidmonks.com%2Frichtext-flutter%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Frichtext-flutter%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/richtext-flutter/#respond)## [Flutter AnimatedSwitcher Widget | 3 minute Flutter Animation](https://androidmonks.com/flutter-animatedswitcher-widget/)
+
+ [November 11, 2019](https://androidmonks.com/flutter-animatedswitcher-widget/ "3:24 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")Flutter AnimatedSwitcher Widget Flutter AnimatedSwitcher widget gives an interface to perform Transition between one widget to another. The animation can be easily controlled through this widget and is very easy to set up also. This widget by default does a FadeTransition between a new widget and the widget previously set on the AnimatedSwitcher as a child. If … [Read more Flutter AnimatedSwitcher Widget | 3 minute Flutter Animation](https://androidmonks.com/flutter-animatedswitcher-widget/ "Flutter AnimatedSwitcher Widget | 3 minute Flutter Animation")
+
+[Tweet](https://twitter.com/intent/tweet?text=Flutter+AnimatedSwitcher+Widget++3+minute+Flutter+Animation&url=https%3A%2F%2Fandroidmonks.com%2Fflutter-animatedswitcher-widget%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fflutter-animatedswitcher-widget%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/flutter-animatedswitcher-widget/#respond)## [SelectableText Widget in Flutter | Copyable Text in Flutter](https://androidmonks.com/selectabletext-widget-flutter/)
+
+ [November 3, 2019November 4, 2019](https://androidmonks.com/selectabletext-widget-flutter/ "5:00 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")SelectableText Widget in Flutter SelectableText Widget in Flutter lets the user Select/Copy the text on the UI. The normal Text Widget in Flutter will not allow a copy/select feature(By double-tapping on the text, we can either select/copy the text). To solve this problem, the Flutter 1.9 release came out with the SelectableText Widget. In this article, … [Read more SelectableText Widget in Flutter | Copyable Text in Flutter](https://androidmonks.com/selectabletext-widget-flutter/ "SelectableText Widget in Flutter | Copyable Text in Flutter")
+
+[Tweet](https://twitter.com/intent/tweet?text=SelectableText+Widget+in+Flutter++Copyable+Text+in+Flutter&url=https%3A%2F%2Fandroidmonks.com%2Fselectabletext-widget-flutter%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fselectabletext-widget-flutter%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [1 Comment](https://androidmonks.com/selectabletext-widget-flutter/#comments)## [Flutter Open Source Plugins in 2019 [Top 5]](https://androidmonks.com/flutter-open-source-plugins/)
+
+ [October 17, 2019October 17, 2019](https://androidmonks.com/flutter-open-source-plugins/ "11:00 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")Flutter Open Source Plugins in 2019 This article covers the 5 important flutter open-source plugins that are available. The list comprises of all the different sections with the Flutter framework. These plugins are simple dependencies that have to be included in your pubspec.yaml file before using. This list contains UI related plugin and Function related … [Read more Flutter Open Source Plugins in 2019 [Top 5]](https://androidmonks.com/flutter-open-source-plugins/ "Flutter Open Source Plugins in 2019 [Top 5]")
+
+[Tweet](https://twitter.com/intent/tweet?text=Flutter+Open+Source+Plugins+in+2019+%5BTop+5%5D&url=https%3A%2F%2Fandroidmonks.com%2Fflutter-open-source-plugins%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fflutter-open-source-plugins%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/flutter-open-source-plugins/#respond)## [ButtonBar Widget in Flutter – Don’t use Row Widget](https://androidmonks.com/buttonbar-widget-flutter/)
+
+ [October 14, 2019](https://androidmonks.com/buttonbar-widget-flutter/ "3:58 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")  [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](https://androidmonks.com/wp-content/uploads/2019/10/Screenshot-2019-10-14-at-9.27.41-AM.png)](https://androidmonks.com/buttonbar-widget-flutter/) ButtonBar Widget in Flutter Buttonbar widget in Flutter is going to offer flexibility over arranging the Button Widget in Flutter easily. Just as the name suggests, the Buttons will be arranged in a Bar or in a Row. ButtonBar provides much more stability over how the buttons are arranged. ButtonBar Widget in Flutter provides a … [Read more ButtonBar Widget in Flutter – Don’t use Row Widget](https://androidmonks.com/buttonbar-widget-flutter/ "ButtonBar Widget in Flutter – Don’t use Row Widget")
+
+[Tweet](https://twitter.com/intent/tweet?text=ButtonBar+Widget+in+Flutter+-+Don%27t+use+Row+Widget&url=https%3A%2F%2Fandroidmonks.com%2Fbuttonbar-widget-flutter%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fbuttonbar-widget-flutter%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/buttonbar-widget-flutter/#respond)## [ExpansionTile Widget in Flutter – Awesome UI List](https://androidmonks.com/expansiontile-widget/)
+
+ [October 4, 2019October 7, 2019](https://androidmonks.com/expansiontile-widget/ "6:00 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")ExpansionTile Widget in Flutter ExpansionTile Widget in Flutter is a pretty simple yet useful widget. This widget lets you create an expanding Tile that can be used as part of the ListView. A lot of applications might require showing detailed information on the Listview but do not have the required space to do that. This … [Read more ExpansionTile Widget in Flutter – Awesome UI List](https://androidmonks.com/expansiontile-widget/ "ExpansionTile Widget in Flutter – Awesome UI List")
+
+[Tweet](https://twitter.com/intent/tweet?text=ExpansionTile+Widget+in+Flutter+-+Awesome+UI+List&url=https%3A%2F%2Fandroidmonks.com%2Fexpansiontile-widget%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fexpansiontile-widget%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/expansiontile-widget/#respond)## [Flutter Change App name & Launcher Icon – 3 Easy Steps](https://androidmonks.com/flutter-change-app-name/)
+
+ [October 2, 2019](https://androidmonks.com/flutter-change-app-name/ "8:39 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")Flutter Change App name & Launcher Icon – 3 Easy Steps In this article, we will look at 3 simple ways to change the Flutter App name & Launcher Icon for Android & IOS devices easily. Make sure to read the whole article to understand how the entire process works. Since Flutter is a one … [Read more Flutter Change App name & Launcher Icon – 3 Easy Steps](https://androidmonks.com/flutter-change-app-name/ "Flutter Change App name & Launcher Icon – 3 Easy Steps")
+
+[Tweet](https://twitter.com/intent/tweet?text=Flutter+Change+App+name+%26+Launcher+Icon+-+3+Easy+Steps&url=https%3A%2F%2Fandroidmonks.com%2Fflutter-change-app-name%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fflutter-change-app-name%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/flutter-change-app-name/#respond) Post navigation [Older posts](https://androidmonks.com/category/flutter/page/2/)1 [2](https://androidmonks.com/category/flutter/page/2/) … [5](https://androidmonks.com/category/flutter/page/5/) [Next →](https://androidmonks.com/category/flutter/page/2/)  Search for:   ## Archives
+
+* [August 2020](https://androidmonks.com/2020/08/)
+* [March 2020](https://androidmonks.com/2020/03/)
+* [January 2020](https://androidmonks.com/2020/01/)
+* [December 2019](https://androidmonks.com/2019/12/)
+* [November 2019](https://androidmonks.com/2019/11/)
+* [October 2019](https://androidmonks.com/2019/10/)
+* [September 2019](https://androidmonks.com/2019/09/)
+* [August 2019](https://androidmonks.com/2019/08/)
+* [July 2019](https://androidmonks.com/2019/07/)
+* [June 2019](https://androidmonks.com/2019/06/)
+* [May 2019](https://androidmonks.com/2019/05/)
+* [April 2019](https://androidmonks.com/2019/04/)
+* [March 2019](https://androidmonks.com/2019/03/)
+* [February 2019](https://androidmonks.com/2019/02/)
+* [January 2019](https://androidmonks.com/2019/01/)
+* [December 2018](https://androidmonks.com/2018/12/)
+* [November 2018](https://androidmonks.com/2018/11/)
+* [October 2018](https://androidmonks.com/2018/10/)
+* [September 2018](https://androidmonks.com/2018/09/)
+* [August 2018](https://androidmonks.com/2018/08/)
+* [July 2018](https://androidmonks.com/2018/07/)
+ © 2021 Android Monks • Powered by [GeneratePress](https://generatepress.com) This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Cookie settingsACCEPTPrivacy & Cookies Policy   Close #### Privacy Overview
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.  Necessary  Necessary Always EnabledNecessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+
+ Non-necessary  Non-necessaryAny cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+  /* <![CDATA[ */
+var tocplus = {"visibility\_show":"show","visibility\_hide":"hide","width":"Auto"};
+/* ]]> */  /* <![CDATA[ */
+var socialWarfare = {"addons":[],"post\_id":"2258","variables":{"emphasizeIcons":false,"powered\_by\_toggle":false,"affiliate\_link":"https:\/\/warfareplugins.com"},"floatBeforeContent":""};
+/* ]]> */       var swp\_nonce = "c14f5ebe6a";var swpFloatBeforeContent = false; var swp\_ajax\_url = "https://androidmonks.com/wp-admin/admin-ajax.php";var swpClickTracking = false; 

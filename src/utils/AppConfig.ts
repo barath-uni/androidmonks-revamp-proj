@@ -1,10 +1,10 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Next.js Boilerplate',
+  site_name: 'Androidmonks',
+  title: 'Androidmonks',
   description:
-    'Starter code for your Next.js blog Boilerplate with Tailwind CSS',
-  url: 'https://example.com',
+    'Learn to code to build for Android OS',
+  url: 'https://androidmonks.com',
   locale: 'en',
-  author: 'Anonymous',
+  author: 'Baradwaj Varadharajan',
   pagination_size: 5,
 };

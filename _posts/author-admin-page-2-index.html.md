@@ -1,0 +1,83 @@
+---
+title: '#  Baradwaj Varadharajan'
+description: 'AsyncTask is used to update the UI thread without blocking it. In this tutorial we update the Progressbar in the background using a AsyncTask.'
+date: '2018-10-28'
+modified_date: '2018-10-28'
+image: '/assets/images/posts'
+---
+#  Baradwaj Varadharajan
+
+Baradwaj Varadharajan is an enthusiastic Android Developer. Working as a Dev Engineer in creating and delivering android devices that are known globally. Passionate about sharing his knowledge and know how's to the aspiring developers.## [RichText Widget in Flutter | Span Text Easily](https://androidmonks.com/richtext-flutter/)
+
+ [November 24, 2019November 24, 2019](https://androidmonks.com/richtext-flutter/ "3:00 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")RichText Widget in Flutter | Span Text Easily RichText Widget is very useful in Flutter. It lets the developer create a simple yet effective way of creating texts on the UI with multiple Styles to it. A very similar practice in Website and Mobile apps is to either Style a specific word in a paragraph … [Read more RichText Widget in Flutter | Span Text Easily](https://androidmonks.com/richtext-flutter/ "RichText Widget in Flutter | Span Text Easily")
+
+[Tweet](https://twitter.com/intent/tweet?text=RichText+Widget+in+Flutter++Span+Text+Easily&url=https%3A%2F%2Fandroidmonks.com%2Frichtext-flutter%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Frichtext-flutter%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/richtext-flutter/#respond)## [Flutter AnimatedSwitcher Widget | 3 minute Flutter Animation](https://androidmonks.com/flutter-animatedswitcher-widget/)
+
+ [November 11, 2019](https://androidmonks.com/flutter-animatedswitcher-widget/ "3:24 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")Flutter AnimatedSwitcher Widget Flutter AnimatedSwitcher widget gives an interface to perform Transition between one widget to another. The animation can be easily controlled through this widget and is very easy to set up also. This widget by default does a FadeTransition between a new widget and the widget previously set on the AnimatedSwitcher as a child. If … [Read more Flutter AnimatedSwitcher Widget | 3 minute Flutter Animation](https://androidmonks.com/flutter-animatedswitcher-widget/ "Flutter AnimatedSwitcher Widget | 3 minute Flutter Animation")
+
+[Tweet](https://twitter.com/intent/tweet?text=Flutter+AnimatedSwitcher+Widget++3+minute+Flutter+Animation&url=https%3A%2F%2Fandroidmonks.com%2Fflutter-animatedswitcher-widget%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fflutter-animatedswitcher-widget%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/flutter-animatedswitcher-widget/#respond)## [SelectableText Widget in Flutter | Copyable Text in Flutter](https://androidmonks.com/selectabletext-widget-flutter/)
+
+ [November 3, 2019November 4, 2019](https://androidmonks.com/selectabletext-widget-flutter/ "5:00 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")SelectableText Widget in Flutter SelectableText Widget in Flutter lets the user Select/Copy the text on the UI. The normal Text Widget in Flutter will not allow a copy/select feature(By double-tapping on the text, we can either select/copy the text). To solve this problem, the Flutter 1.9 release came out with the SelectableText Widget. In this article, … [Read more SelectableText Widget in Flutter | Copyable Text in Flutter](https://androidmonks.com/selectabletext-widget-flutter/ "SelectableText Widget in Flutter | Copyable Text in Flutter")
+
+[Tweet](https://twitter.com/intent/tweet?text=SelectableText+Widget+in+Flutter++Copyable+Text+in+Flutter&url=https%3A%2F%2Fandroidmonks.com%2Fselectabletext-widget-flutter%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fselectabletext-widget-flutter%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [1 Comment](https://androidmonks.com/selectabletext-widget-flutter/#comments)## [Flutter Open Source Plugins in 2019 [Top 5]](https://androidmonks.com/flutter-open-source-plugins/)
+
+ [October 17, 2019October 17, 2019](https://androidmonks.com/flutter-open-source-plugins/ "11:00 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")Flutter Open Source Plugins in 2019 This article covers the 5 important flutter open-source plugins that are available. The list comprises of all the different sections with the Flutter framework. These plugins are simple dependencies that have to be included in your pubspec.yaml file before using. This list contains UI related plugin and Function related … [Read more Flutter Open Source Plugins in 2019 [Top 5]](https://androidmonks.com/flutter-open-source-plugins/ "Flutter Open Source Plugins in 2019 [Top 5]")
+
+[Tweet](https://twitter.com/intent/tweet?text=Flutter+Open+Source+Plugins+in+2019+%5BTop+5%5D&url=https%3A%2F%2Fandroidmonks.com%2Fflutter-open-source-plugins%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fflutter-open-source-plugins%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/flutter-open-source-plugins/#respond)## [ButtonBar Widget in Flutter – Don’t use Row Widget](https://androidmonks.com/buttonbar-widget-flutter/)
+
+ [October 14, 2019](https://androidmonks.com/buttonbar-widget-flutter/ "3:58 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")  [![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](https://androidmonks.com/wp-content/uploads/2019/10/Screenshot-2019-10-14-at-9.27.41-AM.png)](https://androidmonks.com/buttonbar-widget-flutter/) ButtonBar Widget in Flutter Buttonbar widget in Flutter is going to offer flexibility over arranging the Button Widget in Flutter easily. Just as the name suggests, the Buttons will be arranged in a Bar or in a Row. ButtonBar provides much more stability over how the buttons are arranged. ButtonBar Widget in Flutter provides a … [Read more ButtonBar Widget in Flutter – Don’t use Row Widget](https://androidmonks.com/buttonbar-widget-flutter/ "ButtonBar Widget in Flutter – Don’t use Row Widget")
+
+[Tweet](https://twitter.com/intent/tweet?text=ButtonBar+Widget+in+Flutter+-+Don%27t+use+Row+Widget&url=https%3A%2F%2Fandroidmonks.com%2Fbuttonbar-widget-flutter%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fbuttonbar-widget-flutter%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/buttonbar-widget-flutter/#respond)## [ExpansionTile Widget in Flutter – Awesome UI List](https://androidmonks.com/expansiontile-widget/)
+
+ [October 4, 2019October 7, 2019](https://androidmonks.com/expansiontile-widget/ "6:00 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")ExpansionTile Widget in Flutter ExpansionTile Widget in Flutter is a pretty simple yet useful widget. This widget lets you create an expanding Tile that can be used as part of the ListView. A lot of applications might require showing detailed information on the Listview but do not have the required space to do that. This … [Read more ExpansionTile Widget in Flutter – Awesome UI List](https://androidmonks.com/expansiontile-widget/ "ExpansionTile Widget in Flutter – Awesome UI List")
+
+[Tweet](https://twitter.com/intent/tweet?text=ExpansionTile+Widget+in+Flutter+-+Awesome+UI+List&url=https%3A%2F%2Fandroidmonks.com%2Fexpansiontile-widget%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fexpansiontile-widget%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/expansiontile-widget/#respond)## [Flutter Change App name & Launcher Icon – 3 Easy Steps](https://androidmonks.com/flutter-change-app-name/)
+
+ [October 2, 2019](https://androidmonks.com/flutter-change-app-name/ "8:39 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")Flutter Change App name & Launcher Icon – 3 Easy Steps In this article, we will look at 3 simple ways to change the Flutter App name & Launcher Icon for Android & IOS devices easily. Make sure to read the whole article to understand how the entire process works. Since Flutter is a one … [Read more Flutter Change App name & Launcher Icon – 3 Easy Steps](https://androidmonks.com/flutter-change-app-name/ "Flutter Change App name & Launcher Icon – 3 Easy Steps")
+
+[Tweet](https://twitter.com/intent/tweet?text=Flutter+Change+App+name+%26+Launcher+Icon+-+3+Easy+Steps&url=https%3A%2F%2Fandroidmonks.com%2Fflutter-change-app-name%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fflutter-change-app-name%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/flutter-change-app-name/#respond)## [Flutter Icons | Easiest Widget in Flutter](https://androidmonks.com/flutter-icons/)
+
+ [December 2, 2019September 26, 2019](https://androidmonks.com/flutter-icons/ "7:00 pm") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")Flutter Icons | Easiest Widget in Flutter Flutter Icons is the primary way of introducing Icons in Flutter. Flutter does its own rendering of these icons instead of the usual Android’s way of importing assets as part of the App project itself. Instead, it takes the difficult route and draws these icons on the canvas. … [Read more Flutter Icons | Easiest Widget in Flutter](https://androidmonks.com/flutter-icons/ "Flutter Icons | Easiest Widget in Flutter")
+
+[Tweet](https://twitter.com/intent/tweet?text=Flutter+Icons++Easiest+Widget+in+Flutter&url=https%3A%2F%2Fandroidmonks.com%2Fflutter-icons%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fflutter-icons%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/flutter-icons/#respond)## [Imagepicker Widget in Flutter | Gallery Made easy](https://androidmonks.com/imagepicker-flutter/)
+
+ [September 16, 2019](https://androidmonks.com/imagepicker-flutter/ "10:19 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")Imagepicker Widget in Flutter – Gallery Made easy Imagepicker widget in Flutter makes the life so much easy by bridging Photo gallery in Flutter. In this article we will read more about using the ImagePicker Plugin/Widget to create a good gallery like app. Even before we jump into that, we will be requiring the one … [Read more Imagepicker Widget in Flutter | Gallery Made easy](https://androidmonks.com/imagepicker-flutter/ "Imagepicker Widget in Flutter | Gallery Made easy")
+
+[Tweet](https://twitter.com/intent/tweet?text=Imagepicker+Widget+in+Flutter++Gallery+Made+easy&url=https%3A%2F%2Fandroidmonks.com%2Fimagepicker-flutter%2F)Pin[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fimagepicker-flutter%2F)0 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/imagepicker-flutter/#respond)## [Shimmer Effect in Flutter | List Loading Effect](https://androidmonks.com/shimmer-effect-flutter/)
+
+ [September 9, 2019September 9, 2019](https://androidmonks.com/shimmer-effect-flutter/ "6:00 am") by [Baradwaj Varadharajan](https://androidmonks.com/author/admin/ "View all posts by Baradwaj Varadharajan")Shimmer Effect in Flutter – Awesome Flutter Plugins Shimmer Effect is a very famous Text effect introduced as part of the IOS environment. In this article, we will look at how to bring that to the Flutter Application. To begin with, we will make use of this Awesome Flutter Plugin – Shimmer 1.0.0 Add the … [Read more Shimmer Effect in Flutter | List Loading Effect](https://androidmonks.com/shimmer-effect-flutter/ "Shimmer Effect in Flutter | List Loading Effect")
+
+[Tweet](https://twitter.com/intent/tweet?text=Shimmer+Effect+in+Flutter++List+Loading+Effect&url=https%3A%2F%2Fandroidmonks.com%2Fshimmer-effect-flutter%2F)Pin[Share1](https://www.facebook.com/share.php?u=https%3A%2F%2Fandroidmonks.com%2Fshimmer-effect-flutter%2F)1 Shares Categories [Flutter](https://androidmonks.com/category/flutter/) [Leave a comment](https://androidmonks.com/shimmer-effect-flutter/#respond) Post navigation [Older posts](https://androidmonks.com/author/admin/page/3/) [Newer posts](https://androidmonks.com/author/admin/)[← Previous](https://androidmonks.com/author/admin/) [1](https://androidmonks.com/author/admin/) 2 [3](https://androidmonks.com/author/admin/page/3/) … [13](https://androidmonks.com/author/admin/page/13/) [Next →](https://androidmonks.com/author/admin/page/3/)  Search for:   ## Archives
+
+* [August 2020](https://androidmonks.com/2020/08/)
+* [March 2020](https://androidmonks.com/2020/03/)
+* [January 2020](https://androidmonks.com/2020/01/)
+* [December 2019](https://androidmonks.com/2019/12/)
+* [November 2019](https://androidmonks.com/2019/11/)
+* [October 2019](https://androidmonks.com/2019/10/)
+* [September 2019](https://androidmonks.com/2019/09/)
+* [August 2019](https://androidmonks.com/2019/08/)
+* [July 2019](https://androidmonks.com/2019/07/)
+* [June 2019](https://androidmonks.com/2019/06/)
+* [May 2019](https://androidmonks.com/2019/05/)
+* [April 2019](https://androidmonks.com/2019/04/)
+* [March 2019](https://androidmonks.com/2019/03/)
+* [February 2019](https://androidmonks.com/2019/02/)
+* [January 2019](https://androidmonks.com/2019/01/)
+* [December 2018](https://androidmonks.com/2018/12/)
+* [November 2018](https://androidmonks.com/2018/11/)
+* [October 2018](https://androidmonks.com/2018/10/)
+* [September 2018](https://androidmonks.com/2018/09/)
+* [August 2018](https://androidmonks.com/2018/08/)
+* [July 2018](https://androidmonks.com/2018/07/)
+ © 2021 Android Monks • Powered by [GeneratePress](https://generatepress.com) This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Cookie settingsACCEPTPrivacy & Cookies Policy   Close #### Privacy Overview
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.  Necessary  Necessary Always EnabledNecessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+
+ Non-necessary  Non-necessaryAny cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+  /* <![CDATA[ */
+var tocplus = {"visibility\_show":"show","visibility\_hide":"hide","width":"Auto"};
+/* ]]> */  /* <![CDATA[ */
+var socialWarfare = {"addons":[],"post\_id":"2141","variables":{"emphasizeIcons":false,"powered\_by\_toggle":false,"affiliate\_link":"https:\/\/warfareplugins.com"},"floatBeforeContent":""};
+/* ]]> */       var swp\_nonce = "5e9d84bb42";var swpFloatBeforeContent = false; var swp\_ajax\_url = "https://androidmonks.com/wp-admin/admin-ajax.php";var swpClickTracking = false; 

@@ -30,17 +30,17 @@ const Main = (props: IMainProps) => (
               </Link>
             </li>
             <li className="mr-6">
-              <Link href="/">
+              <Link href="/postspage">
                 <a>Posts</a>
               </Link>
             </li>
             <li className="mr-6">
-              <Link href="/about/">
+              <Link href="/posts/about-me-index.html">
                 <a>About</a>
               </Link>
             </li>
             <li className="mr-6">
-              <a href="">
+              <a href="https://github.com/barathmonk/">
                 GitHub
               </a>
             </li>
@@ -51,12 +51,7 @@ const Main = (props: IMainProps) => (
       <div className="text-xl py-5">{props.children}</div>
 
       <div className="border-t border-gray-300 text-center py-8 text-sm">
-        © Copyright {new Date().getFullYear()} {AppConfig.title}. Powered with{' '}
-        <span role="img" aria-label="Love">
-          ♥
-        </span>{' '}
-        by <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
-        {}
+        © Copyright {new Date().getFullYear()} {AppConfig.title}
       </div>
     </div>
   </div>

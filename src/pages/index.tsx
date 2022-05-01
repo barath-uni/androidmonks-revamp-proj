@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 const Index = () => (
   <div className="relative flex min-h-screen flex-col justify-center overflow-hidden bg-gray-50 py-6 sm:py-12">
@@ -46,8 +47,11 @@ const Index = () => (
             <svg xmlns="http://www.w3.org/2000/svg" className=" h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
               <path strokeLinecap="round" strokeLinejoin="round" d="M19 14l-7 7m0 0l-7-7m7 7V3" />
             </svg>
-            <p className="ml-4">
-            POSTS (Coming Soon)</p>
+            <Link href="/postspage">
+            <a>
+              <h2>POSTS</h2>
+            </a>
+            </Link>
           </div>
         </div>
         <div className="pt-8 text-base font-semibold leading-7">
