@@ -1,6 +1,6 @@
 ---
 title: '# Cookie Policy'
-description: ''
+description: 'Cookie policy document.'
 date: '2020-02-24'
 modified_date: '2020-02-24'
 image: '/assets/images/posts'

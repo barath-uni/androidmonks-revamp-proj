@@ -1,6 +1,6 @@
 ---
 title: '# Listview Flutter with Example | Androidmonks'
-description: ''
+description: 'Listview in Flutter is a UI widget that helps in listing items serially or in a nested fashion.'
 date: '2019-02-09'
 modified_date: '2019-06-20'
 image: '/assets/images/posts'
